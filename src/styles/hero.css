@@ -44,6 +44,6 @@
 /* 2xl */
 @media (min-width: 1440px) {
   .hero {
-    font-size: var(--size-6xl);
+    font-size: var(--size-5xl);
   }
 }
