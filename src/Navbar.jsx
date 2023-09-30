@@ -10,15 +10,6 @@ export default function Navbar() {
             </a>
             <div className="navbar-menu">
               <div className="navbar-link">
-                <a className="navbar-text" href="/news">News</a>
-              </div>
-              <div className="navbar-link">
-                <a className="navbar-text" href="/services">Services</a>
-              </div>
-              <div className="navbar-link">
-                <a className="navbar-text" href="/resources">Resources</a>
-              </div>
-              <div className="navbar-link">
                 <a className="navbar-text" href="/about">About</a>
               </div>
               <div className="navbar-button">

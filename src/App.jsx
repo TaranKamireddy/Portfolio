@@ -9,8 +9,6 @@ export default function App() {
   return (
       <main className="hero container">
         <Navbar />
-        <h1>Responsive</h1>
-        <button className="btn">Blue Button</button>
       </main>
   )
 }
